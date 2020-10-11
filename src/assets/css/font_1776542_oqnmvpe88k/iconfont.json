@@ -1,0 +1,149 @@
+{
+  "id": "1776542",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6376245",
+      "name": "关闭X号",
+      "font_class": "guanbiXhao",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "74565",
+      "name": "家长",
+      "font_class": "parents",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4864422",
+      "name": "班级",
+      "font_class": "banji",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "6655542",
+      "name": "教师",
+      "font_class": "jiaoshi",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "8828238",
+      "name": "学生",
+      "font_class": "xuesheng",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "3264105",
+      "name": "全屏",
+      "font_class": "yjkhj-",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "1009920",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "1408147",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2178095",
+      "name": "学校",
+      "font_class": "xuexiao",
+      "unicode": "e976",
+      "unicode_decimal": 59766
+    },
+    {
+      "icon_id": "2219265",
+      "name": "员工",
+      "font_class": "yuangong",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "2536728",
+      "name": "招商",
+      "font_class": "zhaoshang",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "6803641",
+      "name": "角色",
+      "font_class": "jiaose",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "7260774",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8606622",
+      "name": "绑定关系",
+      "font_class": "bangdingguanxi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9960584",
+      "name": "游客",
+      "font_class": "youke",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12060074",
+      "name": "招生",
+      "font_class": "zhaosheng",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "12090570",
+      "name": "园所管理",
+      "font_class": "yuansuoguanli",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "13312710",
+      "name": "系统设置",
+      "font_class": "shezhi",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "13775168",
+      "name": "首 页",
+      "font_class": "shouye",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "13798739",
+      "name": "财务",
+      "font_class": "caiwu",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
